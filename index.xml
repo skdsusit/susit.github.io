@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uslab</title>
+    <title>SUSIT</title>
     <link>https://skdsusit.github.io/susit.github.io/</link>
       <atom:link href="https://skdsusit.github.io/susit.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Uslab</description>
+    <description>SUSIT</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skdsusit.github.io/susit.github.io/media/logo_hu2e8d585f6837eebc313fa8e1649a8547_602025_300x300_fit_lanczos_3.png</url>
-      <title>Uslab</title>
+      <title>SUSIT</title>
       <link>https://skdsusit.github.io/susit.github.io/</link>
     </image>
     

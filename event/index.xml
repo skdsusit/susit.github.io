@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Events | Uslab</title>
+    <title>Recent &amp; Upcoming Events | SUSIT</title>
     <link>https://skdsusit.github.io/susit.github.io/event/</link>
       <atom:link href="https://skdsusit.github.io/susit.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
