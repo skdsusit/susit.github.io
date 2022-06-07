@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cécile Olivier | SUSIT</title>
+    <link>https://skdsusit.github.io/susit.github.io/author/cecile-olivier/</link>
+      <atom:link href="https://skdsusit.github.io/susit.github.io/author/cecile-olivier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cécile Olivier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skdsusit.github.io/susit.github.io/media/logo_hu2e8d585f6837eebc313fa8e1649a8547_602025_300x300_fit_lanczos_3.png</url>
+      <title>Cécile Olivier</title>
+      <link>https://skdsusit.github.io/susit.github.io/author/cecile-olivier/</link>
+    </image>
+    
+    <item>
+      <title>Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2019254/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2019254/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogenization of cortical bone reveals that the organization and shape of pores marginally affect elasticity</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2019-homogenization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2019-homogenization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of stiffness measurement errors in resonant ultrasound spectroscopy of human cortical bone</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2017-quantification/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2017-quantification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

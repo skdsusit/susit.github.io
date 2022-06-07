@@ -5,7 +5,7 @@
     <link>https://skdsusit.github.io/susit.github.io/publication/</link>
       <atom:link href="https://skdsusit.github.io/susit.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skdsusit.github.io/susit.github.io/media/logo_hu2e8d585f6837eebc313fa8e1649a8547_602025_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
@@ -13,39 +13,84 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://skdsusit.github.io/susit.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://skdsusit.github.io/susit.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Bulk Wave Velocities in Cortical Bone Reflect Porosity and Compression Strength</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/peralta-2021799/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/peralta-2021799/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://skdsusit.github.io/susit.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://skdsusit.github.io/susit.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2019254/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2019254/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://skdsusit.github.io/susit.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://skdsusit.github.io/susit.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>Computed tomography porosity and spherical indentation for determining cortical bone millimetre-scale mechanical properties</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/boughton-2019-computed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/boughton-2019-computed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogenization of cortical bone reveals that the organization and shape of pores marginally affect elasticity</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2019-homogenization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2019-homogenization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical assessment of the in-vitro measurement of cortical bone stiffness with ultrasound</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/peralta-2017119/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/peralta-2017119/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of trabecular bone tissue elasticity with resonant ultrasound spectroscopy</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/daoui-2017106/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/daoui-2017106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical bone elasticity measured by resonant ultrasound spectroscopy is not altered by defatting and synchrotron X-ray imaging</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2017241/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2017241/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of stiffness measurement errors in resonant ultrasound spectroscopy of human cortical bone</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/cai-2017-quantification/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/cai-2017-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observation of sGAG content of human hip joint cartilage in different old age groups based on EPIC micro-CT</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/li-2015-observation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/li-2015-observation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More publications can be found here</title>
+      <link>https://skdsusit.github.io/susit.github.io/publication/more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://skdsusit.github.io/susit.github.io/publication/more/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Xiran-Cai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Researchgate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=O5fKAhoAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
